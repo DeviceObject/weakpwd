@@ -1,0 +1,2 @@
+# weakpwd
+Weak Password
